@@ -9,8 +9,8 @@ Requirements :
 # Special Thanks to for providing this automation script, forever greatful to you brothers!!:
   - ToddAtLarge (PNPT Certified) for the NukeDefender script 
   - Yaseen (PNPT Certified) for Alpha/Beta Testing!
-  - jmeliendrez  https://github.com/jmeliendrez
-  - wodensec     https://github.com/WodenSec
+  - jmeliendrez
+  - wodensec
 
 # This is my own coustomised script, 
 
@@ -25,7 +25,7 @@ Each run will require the following :
 - powershell -ep bypass 
  - Copy pimpmyadlab.ps1 to the vm or wget the file directly to that machine:
  
-   wget https://raw.githubusercontent.com/Dewalt-arch/pimpmyadlab/main/pimpmyadlab.ps1 -O pimpmyadlab.ps1
+   wget https://raw.githubusercontent.com/iam-orsu/OrsuAdLab/main/pimpmyadlab.ps1 -O pimpmyadlab.ps1
 
    Once the script has been copied or downloaded to the vm this step is now not required
 
